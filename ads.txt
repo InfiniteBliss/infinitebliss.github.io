@@ -8,6 +8,8 @@ contact=directsales@ezoic.com
 managerdomain=ezoic.ai
 
 ezoic.ai, cfb1432f4cbcd254470089c6f468c2a0, DIRECT
+ezoic.ai, ac360ffe7c378f2fec9fd87334dc0cad, DIRECT
+ezoic.co.uk, ac360ffe7c378f2fec9fd87334dc0cad, DIRECT
 # 35
 themediagrid.com, 4M5PGT, DIRECT, 35d5010d7789b49d
 themediagrid.com, Q19AKF, DIRECT, 35d5010d7789b49d
@@ -15,6 +17,11 @@ adingo.jp, 24483, RESELLER
 sonobi.com, 192ecdea01, RESELLER, d1a215d9eb5aee9e
 inmobi.com, 264debfabe2f4a07beb83aa2d92136ef, DIRECT, 83e75a7ae333ca9d
 video.unrulymedia.com, 1346664749, RESELLER
+# 36
+lijit.com, 62299, DIRECT, fafdf38b16bf6b2b
+media.net, 8CUL1AWYD, DIRECT
+google.com, pub-6396844742497208, RESELLER, f08c47fec0942fa0
+improvedigital.com, 2254, RESELLER
 # 10050
 themediagrid.com, 2RT75Y, DIRECT, 35d5010d7789b49d
 criteo.com, B-062427, DIRECT, 9fac4a4a87c2a44f
@@ -26,7 +33,6 @@ appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
 # 11290
 smartadserver.com, 3056, RESELLER
 pubmatic.com, 158355, RESELLER
-lijit.com, 260380, RESELLER
 indexexchange.com, 191503, RESELLER
 amxrtb.com, 105199335, DIRECT
 adform.com, 2865, RESELLER
@@ -38,7 +44,6 @@ onetag.com, 62499636face9dc, DIRECT
 freewheel.tv, 24377, RESELLER
 freewheel.tv, 20393, RESELLER
 # 11309
-improvedigital.com, 2309, RESELLER
 smartadserver.com, 4342, RESELLER
 sharethrough.com, b18911a2, RESELLER, d53b998a7bd4ecd2
 smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
